@@ -25,7 +25,6 @@ A real-time face emotion detection application using OpenCV and the FER library.
 
 ### Python Version
 - Python 3.8 or higher
-- 
 ## Installation 🖥️
 ###Clone the Repository:
 ```bash
