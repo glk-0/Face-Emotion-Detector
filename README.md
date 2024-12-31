@@ -25,10 +25,27 @@ A real-time face emotion detection application using OpenCV and the FER library.
 
 ### Python Version
 - Python 3.8 or higher
-
+- 
+## Installation 🖥️
+###Clone the Repository:
+```bash
+git clone https://github.com/your-username/face-emotion-detector.git
+cd face-emotion-detector
+```
 ### Python Libraries
 The dependencies for this project are listed in the `requirements.txt` file. Install them using:
 
 ```bash
 pip install -r requirements.txt
 ```
+## Usage ▶️
+### Run the Application:
+```bash
+python main.py
+```
+### Interact with the Webcam:
+Ensure your face is within the camera's view.
+The detected emotion will be displayed on the screen along with its confidence score.
+### Stop the Application:
+Press the q key to quit the application
+
